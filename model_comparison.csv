@@ -1,0 +1,3 @@
+Modèle,Test Accuracy
+LSTM Baseline,0.8339599967002869
+DistilBERT Fine-tuné,0.8972
